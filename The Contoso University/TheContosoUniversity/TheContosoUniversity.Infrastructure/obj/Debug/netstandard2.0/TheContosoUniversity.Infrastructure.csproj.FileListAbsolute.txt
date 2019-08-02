@@ -1,0 +1,14 @@
+C:\Users\Pmatrosov\Desktop\ProjGit\new\The Contoso University\TheContosoUniversity\TheContosoUniversity.Infrastructure\bin\Debug\netstandard2.0\TheContosoUniversity.Infrastructure.deps.json
+C:\Users\Pmatrosov\Desktop\ProjGit\new\The Contoso University\TheContosoUniversity\TheContosoUniversity.Infrastructure\bin\Debug\netstandard2.0\TheContosoUniversity.Infrastructure.dll
+C:\Users\Pmatrosov\Desktop\ProjGit\new\The Contoso University\TheContosoUniversity\TheContosoUniversity.Infrastructure\bin\Debug\netstandard2.0\TheContosoUniversity.Infrastructure.pdb
+C:\Users\Pmatrosov\Desktop\ProjGit\new\The Contoso University\TheContosoUniversity\TheContosoUniversity.Infrastructure\bin\Debug\netstandard2.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Pmatrosov\Desktop\ProjGit\new\The Contoso University\TheContosoUniversity\TheContosoUniversity.Infrastructure\bin\Debug\netstandard2.0\TheContosoUniversity.Models.dll
+C:\Users\Pmatrosov\Desktop\ProjGit\new\The Contoso University\TheContosoUniversity\TheContosoUniversity.Infrastructure\bin\Debug\netstandard2.0\TheContosoUniversity.Models.pdb
+C:\Users\Pmatrosov\Desktop\ProjGit\new\The Contoso University\TheContosoUniversity\TheContosoUniversity.Infrastructure\bin\Debug\netstandard2.0\Microsoft.EntityFrameworkCore.xml
+C:\Users\Pmatrosov\Desktop\ProjGit\new\The Contoso University\TheContosoUniversity\TheContosoUniversity.Infrastructure\obj\Debug\netstandard2.0\TheContosoUniversity.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Pmatrosov\Desktop\ProjGit\new\The Contoso University\TheContosoUniversity\TheContosoUniversity.Infrastructure\obj\Debug\netstandard2.0\TheContosoUniversity.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Pmatrosov\Desktop\ProjGit\new\The Contoso University\TheContosoUniversity\TheContosoUniversity.Infrastructure\obj\Debug\netstandard2.0\TheContosoUniversity.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Pmatrosov\Desktop\ProjGit\new\The Contoso University\TheContosoUniversity\TheContosoUniversity.Infrastructure\obj\Debug\netstandard2.0\TheContosoUniversity.Infrastructure.AssemblyInfo.cs
+C:\Users\Pmatrosov\Desktop\ProjGit\new\The Contoso University\TheContosoUniversity\TheContosoUniversity.Infrastructure\obj\Debug\netstandard2.0\TheContosoUniversity.Infrastructure.csproj.CopyComplete
+C:\Users\Pmatrosov\Desktop\ProjGit\new\The Contoso University\TheContosoUniversity\TheContosoUniversity.Infrastructure\obj\Debug\netstandard2.0\TheContosoUniversity.Infrastructure.dll
+C:\Users\Pmatrosov\Desktop\ProjGit\new\The Contoso University\TheContosoUniversity\TheContosoUniversity.Infrastructure\obj\Debug\netstandard2.0\TheContosoUniversity.Infrastructure.pdb

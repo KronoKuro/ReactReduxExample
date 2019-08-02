@@ -1,0 +1,9 @@
+C:\Users\Pmatrosov\Desktop\ProjGit\new\The Contoso University\TheContosoUniversity\TheContosoUniversity.Models\bin\Debug\netstandard2.0\TheContosoUniversity.Models.deps.json
+C:\Users\Pmatrosov\Desktop\ProjGit\new\The Contoso University\TheContosoUniversity\TheContosoUniversity.Models\bin\Debug\netstandard2.0\TheContosoUniversity.Models.dll
+C:\Users\Pmatrosov\Desktop\ProjGit\new\The Contoso University\TheContosoUniversity\TheContosoUniversity.Models\bin\Debug\netstandard2.0\TheContosoUniversity.Models.pdb
+C:\Users\Pmatrosov\Desktop\ProjGit\new\The Contoso University\TheContosoUniversity\TheContosoUniversity.Models\obj\Debug\netstandard2.0\TheContosoUniversity.Models.csprojAssemblyReference.cache
+C:\Users\Pmatrosov\Desktop\ProjGit\new\The Contoso University\TheContosoUniversity\TheContosoUniversity.Models\obj\Debug\netstandard2.0\TheContosoUniversity.Models.csproj.CoreCompileInputs.cache
+C:\Users\Pmatrosov\Desktop\ProjGit\new\The Contoso University\TheContosoUniversity\TheContosoUniversity.Models\obj\Debug\netstandard2.0\TheContosoUniversity.Models.AssemblyInfoInputs.cache
+C:\Users\Pmatrosov\Desktop\ProjGit\new\The Contoso University\TheContosoUniversity\TheContosoUniversity.Models\obj\Debug\netstandard2.0\TheContosoUniversity.Models.AssemblyInfo.cs
+C:\Users\Pmatrosov\Desktop\ProjGit\new\The Contoso University\TheContosoUniversity\TheContosoUniversity.Models\obj\Debug\netstandard2.0\TheContosoUniversity.Models.dll
+C:\Users\Pmatrosov\Desktop\ProjGit\new\The Contoso University\TheContosoUniversity\TheContosoUniversity.Models\obj\Debug\netstandard2.0\TheContosoUniversity.Models.pdb

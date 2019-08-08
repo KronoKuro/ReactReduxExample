@@ -7,7 +7,7 @@ import { store } from '../../store';
 
 
 const mapDispatchToProps = (dispatch) => {
-      dispatch(actionStudents.getStudents())
+      dispatch(actionStudents.getStudents());
 }
 const mapStateToProps = state => {
 

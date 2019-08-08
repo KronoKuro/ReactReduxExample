@@ -10,7 +10,7 @@ import StudentContainer from './componetns/students/container';
 import StudentDetailContainer from './componetns/students/studentdetail/container';
 import StudentCreateContainer from './componetns/students/studentcreate/container';
 import StudentDeleteContainer from './componetns/students/studentdelete/container';
-
+import StudentEditContainer from './componetns/students/studentedit/container';
 
 class App extends Component {
  render() {
@@ -20,6 +20,7 @@ class App extends Component {
               <Route path="/student/:id" component={ StudentDetailContainer }  />
               <Route path="/createStudent" component={ StudentCreateContainer }  />
               <Route path="/studentdelete/:id" component={ StudentDeleteContainer }  />
+              <Route path="/studentupdate/:id" component={ StudentEditContainer }  />
           </Switch>
       </Router>
       

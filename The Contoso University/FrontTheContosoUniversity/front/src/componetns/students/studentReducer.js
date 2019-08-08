@@ -20,11 +20,21 @@ export default function studentReducer(state = initialState, action) {
       return {
         ...state,
         student: action.student
-    }
+      }
     case 'STUDENT_DELETE':
       return {
         ...state,
         id: action.id
+      }
+    case 'STUDENT_UPDATE':
+      return {
+        ...state,
+        student: action.student
+      }
+    case 'CHANGE_VALUE':
+      return {
+        ...state,
+        student: action.student
       }
     default:
       return state

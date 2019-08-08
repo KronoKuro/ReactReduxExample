@@ -22,7 +22,7 @@ export class Student extends Component {
         <div className='container'>
             <div className='row'>
                 <div className='student-wrap'>
-                
+                <div> <Link to={'/createStudent'}>Create</Link> </div> 
         {this.props.students.map(el => (
             <Card className='student_card' style={{ width: '18rem' }}>
     
@@ -44,6 +44,7 @@ export class Student extends Component {
             <Button variant="primary">Detail</Button>
             <Link to={'/student/' + el.id}>More</Link>
             <Link to={'/studentdelete/' + el.id} variant="primary">Delete</Link>
+            <Link to={'/studentupdate/' + el.id} variant="primary">Update</Link>
         </Card>
         ))}
         
